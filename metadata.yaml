@@ -1,0 +1,31 @@
+_repo: A-New-Story-Book-for-Children_66655
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fern, Fanny
+    aliases:
+    - Parton, Sara Payson Willis
+    - Willis, Grata Payson
+    birthdate: 1811
+    deathdate: 1872
+    gutenberg_agent_id: '9387'
+    url: http://www.gutenberg.org/2009/agents/9387
+description: ''
+gutenberg_issued: '2021-11-03'
+identifiers:
+  gutenberg: '66655'
+language: en
+pgterms:marc904: http://catalog.hathitrust.org/Record/011633515
+pgterms:marc905: 20201225222902fern
+pgterms:marc906: '1864'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: United States :Mason Brothers,1864.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A New Story Book for Children
+url: http://www.gutenberg.org/ebooks/66655
