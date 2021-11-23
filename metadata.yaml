@@ -1,5 +1,8 @@
 _repo: A-New-Story-Book-for-Children_66655
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66655-h/images/cover.jpg
 creator:
   author:
     agent_name: Fern, Fanny
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '9387'
     url: http://www.gutenberg.org/2009/agents/9387
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66655#A-New-Story-Book-for-Children
 gutenberg_issued: '2021-11-03'
 identifiers:
   gutenberg: '66655'
